@@ -1,1 +1,1 @@
-My shell basics
+Displaying the contents in long format
